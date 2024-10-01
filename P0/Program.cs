@@ -7,4 +7,3 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
-//Coding my console app
