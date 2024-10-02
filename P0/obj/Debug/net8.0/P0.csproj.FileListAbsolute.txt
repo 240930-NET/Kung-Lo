@@ -1,0 +1,15 @@
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\bin\Debug\net8.0\P0.exe
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\bin\Debug\net8.0\P0.deps.json
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\bin\Debug\net8.0\P0.runtimeconfig.json
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\bin\Debug\net8.0\P0.dll
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\bin\Debug\net8.0\P0.pdb
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.AssemblyInfoInputs.cache
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.AssemblyInfo.cs
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.csproj.CoreCompileInputs.cache
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.sourcelink.json
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.dll
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\refint\P0.dll
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.pdb
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\P0.genruntimeconfig.cache
+C:\Users\KungLo\Desktop\Revature\Cohorts\240930-NET\Kung-Lo\P0\obj\Debug\net8.0\ref\P0.dll
